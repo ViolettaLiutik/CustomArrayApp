@@ -1,0 +1,11 @@
+2026-11-11 22:06:07.397 [main] INFO  innowise.arrayPart1.action.Main - Loaded array: CustomArray{elements=[1, 2, 3]}
+2026-11-11 22:06:07.400 [main] INFO  innowise.arrayPart1.action.Main - Stats -> Min: 1, Max: 3, Sum: 6, Avg: 2.0
+2026-11-11 22:06:07.401 [main] INFO  innowise.arrayPart1.action.Main - Bubble sorted: CustomArray{elements=[1, 2, 3]}
+2026-11-11 22:06:07.401 [main] INFO  innowise.arrayPart1.action.Main - Loaded array: CustomArray{elements=[-5, 0, 10, 20]}
+2026-11-11 22:06:07.401 [main] INFO  innowise.arrayPart1.action.Main - Stats -> Min: -5, Max: 20, Sum: 25, Avg: 6.25
+2026-11-11 22:06:07.401 [main] INFO  innowise.arrayPart1.action.Main - Bubble sorted: CustomArray{elements=[-5, 0, 10, 20]}
+2026-11-11 22:06:07.401 [main] WARN  innowise.arrayPart1.action.Main - Skipped invalid line [1, 2, x3, 6..5, 77] due to: Invalid line data: 1, 2, x3, 6..5, 77
+2026-11-11 22:06:07.402 [main] WARN  innowise.arrayPart1.action.Main - Skipped invalid line [] due to: Invalid line data: 
+2026-11-11 22:06:07.402 [main] INFO  innowise.arrayPart1.action.Main - Loaded array: CustomArray{elements=[11, -2, -42]}
+2026-11-11 22:06:07.402 [main] INFO  innowise.arrayPart1.action.Main - Stats -> Min: -42, Max: 11, Sum: -33, Avg: -11.0
+2026-11-11 22:06:07.403 [main] INFO  innowise.arrayPart1.action.Main - Bubble sorted: CustomArray{elements=[-42, -2, 11]}
